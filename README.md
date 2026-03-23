@@ -56,3 +56,5 @@ Aqui está um passo a passo de como usar o Codespaces para desenvolver a partir 
 5. Quando o ambiente estiver pronto, você poderá começar a editar o código diretamente no navegador.
 
 6. Para compilar o código, clique no botão "Build" da barra inferior. Essa barra também tem ícones para debugar (ícone "bug") e executar (ícone "play") o projeto.
+
+Crédito: atividade preparada pelo prof. André Paim Lemos.
